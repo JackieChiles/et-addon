@@ -1,0 +1,1 @@
+export { default } from 'et-addon/components/et-component/component';
